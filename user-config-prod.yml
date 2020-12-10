@@ -1,0 +1,5 @@
+server:
+  port: 8888
+#项目配置
+project:
+  config: 这是我的配置文件
